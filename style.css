@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #FBD0CB;
+    color:#C75B6B;
+}
+
+    .titulo-destaque {
+        color: #7c1d2b;
+    }
+
+    h1{
+        font-weight: bold;
+}
+
+span{
+        color: #186D94;
+        border: 1px solid #186D94;
+        padding: 10px;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+}
